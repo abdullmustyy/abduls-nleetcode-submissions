@@ -77,8 +77,17 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abdullmustyy/abduls-neetcode-submissions/tree/master/0796-rotate-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/abdullmustyy/abduls-neetcode-submissions/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
