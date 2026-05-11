@@ -94,9 +94,35 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
