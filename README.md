@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -105,6 +106,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
