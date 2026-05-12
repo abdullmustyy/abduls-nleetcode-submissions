@@ -98,6 +98,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
+| [1266-minimum-time-visiting-all-points](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -136,4 +137,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 <!---LeetCode Topics End-->
