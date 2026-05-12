@@ -1,22 +1,28 @@
 class Solution:
     def minTimeToVisitAllPoints(self, points: List[List[int]]) -> int:
-        ans = 0
+        res = 0
+        x1, y1 = points.pop()
 
-        for i in range(len(points) - 1):
-            x, y = points[i]
-            target_x, target_y = points[i + 1]
+        while points:
+            x2, y2 = points.pop()
 
-            ans += max(abs(target_x - x), abs(target_y - y))
+            res += max(abs(x2 - x1), abs(y2 - y1))
 
-        return ans
+            x1, y1 = x2, y2
+
+        return res
 
 """
-- create an ans variable and initialize it to 0
-- iterate over the range of len(points) - 1
-- for each index in the iteration, get the x, y values of the current
-coordinates and the target coordinates
-- increase the ans variable by the maximum value between the difference
-of the target and current coordinates of the x and y value
-- then return ans
+- the distance between two points is the maximun value of the
+difference between the x and y coordinates
+- create a res variable and initialize it to zero
+- pop the last point in the points array and make its values
+x1 and y1
+- while points list still has points in it, pop the current last
+point and make that x2 and y1
+- increase res by the maximum value of the difference between the
+x and y coordinates
+- make x1 and y1 values equal x2 and y2
+- then return res
 
 """
