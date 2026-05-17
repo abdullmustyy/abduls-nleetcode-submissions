@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -145,4 +146,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
