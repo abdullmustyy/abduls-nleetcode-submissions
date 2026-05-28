@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/abdullmustyy/abduls-neetcode-submissions/tree/master/0796-rotate-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String Matching
@@ -85,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
