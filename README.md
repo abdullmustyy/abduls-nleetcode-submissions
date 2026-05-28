@@ -87,6 +87,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
@@ -99,6 +100,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0001-two-sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
 | [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -167,4 +169,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
