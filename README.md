@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -94,11 +95,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
