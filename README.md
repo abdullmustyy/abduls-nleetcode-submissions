@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0054-spiral-matrix](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0054-spiral-matrix/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -110,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0015-3sum/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
