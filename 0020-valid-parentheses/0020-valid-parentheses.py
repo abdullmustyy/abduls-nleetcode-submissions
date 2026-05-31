@@ -7,14 +7,8 @@ class Solution:
         for c in s:
             if c in openPs:
                 stack.append(c)
-            else:
-                if stack:
-                    topP = stack.pop()
-
-                    if topP + c not in pValid:
-                        return False
-                else:
-                    return False
+            elif not stack or stack.pop() + c not in pValid:
+                return False
 
         return not stack
 
