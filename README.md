@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/abdullmustyy/abduls-neetcode-submissions/tree/master/0796-rotate-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -179,4 +180,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
