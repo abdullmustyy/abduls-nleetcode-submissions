@@ -111,6 +111,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0238-product-of-array-except-self](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0643-maximum-average-subarray-i](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/1266-minimum-time-visiting-all-points/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -189,4 +190,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
