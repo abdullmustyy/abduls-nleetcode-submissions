@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/abdullmustyy/abduls-neetcode-submissions/tree/master/0796-rotate-string) |
@@ -127,6 +128,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/Python3/Easy/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -194,6 +196,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/abdullmustyy/abduls-nleetcode-submissions/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
